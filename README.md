@@ -2,7 +2,7 @@
 
 An end-to-end solution for data analysts and data scientists to analyze customer churn and lifetime value using SQL-based feature engineering, Python integration, and an interactive Streamlit dashboard.
 
-**🔗 View Live Dashboard**: [customer-churn-ltv-analytics-toolkit](https://customer-churn-ltv-analytics-toolkit-prudhviraj.streamlit.app/)
+**🔗 View Live Dashboard**: [customer-churn-ltv-analytics-platform](https://customer-churn-ltv-analytics-toolkit-prudhviraj.streamlit.app/)
 
 ---
 
