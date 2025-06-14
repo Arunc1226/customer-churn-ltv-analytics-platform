@@ -73,6 +73,6 @@ streamlit run app.py
 
 ## 👨‍💻 Created By
 
-**Prudhvi Raj Rekula**  
+**Arun Chowdary Arabandi**  
 Built with ❤️ using SQL, Python, and Streamlit  
-[GitHub Profile](https://github.com/Prudhvirajrekula)
+[GitHub Profile](https://github.com/Arunc1226)
