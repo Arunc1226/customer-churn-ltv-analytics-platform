@@ -64,7 +64,7 @@ st.dataframe(filtered_df.head(50))
 st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: gray;'>"
-    "Created with ❤️ by <b>Prudhvi Raj</b> using Streamlit"
+    "Created with ❤️ by <b>Arun Chowdary</b> using Streamlit"
     "</div>",
     unsafe_allow_html=True
 )
