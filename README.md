@@ -1,4 +1,4 @@
-# 📊 Customer Churn & LTV Analytics Toolkit
+# 📊 Customer Churn & LTV Analytics Platform
 
 An end-to-end solution for data analysts and data scientists to analyze customer churn and lifetime value using SQL-based feature engineering, Python integration, and an interactive Streamlit dashboard.
 
